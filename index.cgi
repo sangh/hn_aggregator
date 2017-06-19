@@ -1,4 +1,4 @@
-#!/usr/bin/env python3.4
+#!/usr/bin/env python3
 
 from email.utils import parsedate_to_datetime
 import fcntl, sys, time, html, cgi, os
